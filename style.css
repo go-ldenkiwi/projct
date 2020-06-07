@@ -1,4 +1,23 @@
-body
-   {
-   background-color: yellow;
-   }
+.g1 
+    {
+        position:absolute;
+        top:50%; left:50%;
+        transform: translate(-50%, -50%);
+    }
+
+.clear {clear: both}
+
+#cal,#lea,#dis,#ste{float:left;}
+
+.contents
+    {
+	    padding:300px;
+		margin:100px;
+    }
+   
+#mok1
+    {
+		float:left; 
+		padding-top:300; 
+		margin-top:100;
+	}
